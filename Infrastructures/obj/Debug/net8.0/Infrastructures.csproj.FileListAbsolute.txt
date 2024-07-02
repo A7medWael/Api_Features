@@ -1,0 +1,17 @@
+F:\Graduation\Infrastructures\bin\Debug\net8.0\Infrastructures.deps.json
+F:\Graduation\Infrastructures\bin\Debug\net8.0\Infrastructures.runtimeconfig.json
+F:\Graduation\Infrastructures\bin\Debug\net8.0\Infrastructures.dll
+F:\Graduation\Infrastructures\bin\Debug\net8.0\Infrastructures.pdb
+F:\Graduation\Infrastructures\bin\Debug\net8.0\Cores.dll
+F:\Graduation\Infrastructures\bin\Debug\net8.0\Cores.pdb
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.csproj.AssemblyReference.cache
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.AssemblyInfoInputs.cache
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.AssemblyInfo.cs
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.csproj.CoreCompileInputs.cache
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.csproj.CopyComplete
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.dll
+F:\Graduation\Infrastructures\obj\Debug\net8.0\refint\Infrastructures.dll
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.pdb
+F:\Graduation\Infrastructures\obj\Debug\net8.0\Infrastructures.genruntimeconfig.cache
+F:\Graduation\Infrastructures\obj\Debug\net8.0\ref\Infrastructures.dll
