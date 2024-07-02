@@ -1,0 +1,14 @@
+F:\Graduation\Cores\bin\Debug\net8.0\Cores.deps.json
+F:\Graduation\Cores\bin\Debug\net8.0\Cores.runtimeconfig.json
+F:\Graduation\Cores\bin\Debug\net8.0\Cores.dll
+F:\Graduation\Cores\bin\Debug\net8.0\Cores.pdb
+F:\Graduation\Cores\obj\Debug\net8.0\Cores.csproj.AssemblyReference.cache
+F:\Graduation\Cores\obj\Debug\net8.0\Cores.GeneratedMSBuildEditorConfig.editorconfig
+F:\Graduation\Cores\obj\Debug\net8.0\Cores.AssemblyInfoInputs.cache
+F:\Graduation\Cores\obj\Debug\net8.0\Cores.AssemblyInfo.cs
+F:\Graduation\Cores\obj\Debug\net8.0\Cores.csproj.CoreCompileInputs.cache
+F:\Graduation\Cores\obj\Debug\net8.0\Cores.dll
+F:\Graduation\Cores\obj\Debug\net8.0\refint\Cores.dll
+F:\Graduation\Cores\obj\Debug\net8.0\Cores.pdb
+F:\Graduation\Cores\obj\Debug\net8.0\Cores.genruntimeconfig.cache
+F:\Graduation\Cores\obj\Debug\net8.0\ref\Cores.dll
